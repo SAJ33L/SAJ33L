@@ -7,11 +7,11 @@ I’m passionate about building scalable, efficient, and user-friendly applicati
 ---
 
 ## 🚀 What I Do  
-- 🔹 Backend development with **Ruby on Rails**, **Node.js**, and **Java**  
-- 🔹 Frontend development with **React**, **Next.js**, and **React Native**  
-- 🔹 Database design & management: **PostgreSQL**, **MongoDB**, **MySQL**  
-- 🔹 Cloud & DevOps: **Docker**, **AWS (Elastic Beanstalk, S3, EC2)**, **GCP Pub/Sub**  
-- 🔹 Reporting & ERP integrations: **Dynamics 365**, **SSRS**  
+ 🔹 Backend development with **Ruby on Rails**, **Node.js**, and **Java**  
+ 🔹 Frontend development with **React**, **Next.js**, and **React Native**  
+ 🔹 Database design & management: **PostgreSQL**, **MongoDB**, **MySQL**  
+ 🔹 Cloud & DevOps: **Docker**, **AWS (Elastic Beanstalk, S3, EC2)**, **GCP Pub/Sub**  
+ 🔹 Reporting & ERP integrations: **Dynamics 365**, **SSRS**  
 
 ---
 
@@ -44,8 +44,8 @@ I’m constantly improving my craft by exploring new frameworks, refining best p
 ## 📫 Connect with Me  
 
 - GitHub: [github.com/sajeelkhan](https://github.com/sajeelkhan)  
-- LinkedIn: [linkedin.com/in/sajeelkhan](#) <!-- Replace with your real link -->  
-- Email: [sajeel.khan01@gmail.com]<!-- Add your professional email here -->  
+- LinkedIn: [linkedin.com/in/sajeelkhan](www.linkedin.com/in/sajeel-khan-433717246) <!-- Replace with your real link -->  
+- Email: [Sajeel Khan](sajeel.khan01@gmail.com)<!-- Add your professional email here -->  
 
 ---
 
