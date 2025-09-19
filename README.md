@@ -27,14 +27,6 @@ I’m constantly improving my craft by exploring new frameworks, refining best p
 
 ---
 
-## 📊 GitHub Stats  
-
-![Sajeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajeelkhan&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajeelkhan&layout=compact&theme=tokyonight)  
-
----
-
 ## 🛠️ Tech Stack  
 
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
