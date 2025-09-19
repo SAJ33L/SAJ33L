@@ -44,7 +44,7 @@ I’m constantly improving my craft by exploring new frameworks, refining best p
 ## 📫 Connect with Me  
 
 - GitHub: [github.com/sajeelkhan](https://github.com/saj33l)  
-- LinkedIn: [linkedin.com/in/sajeel-khan-433717246](www.linkedin.com/in/sajeel-khan-433717246) <!-- Replace with your real link -->  
+- LinkedIn: [Sajeel Khan](https://www.linkedin.com/in/sajeel-khan-433717246/) <!-- Replace with your real link -->  
 - Email: sajeel.khan01@gmail.com<!-- Add your professional email here -->  
 
 ---
