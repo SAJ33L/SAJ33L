@@ -53,7 +53,7 @@ I’m constantly improving my craft by exploring new frameworks, refining best p
 
 - GitHub: [github.com/sajeelkhan](https://github.com/sajeelkhan)  
 - LinkedIn: [linkedin.com/in/sajeelkhan](#) <!-- Replace with your real link -->  
-- Email: <!-- Add your professional email here -->  
+- Email: [sajeel.khan01@gmail.com]<!-- Add your professional email here -->  
 
 ---
 
